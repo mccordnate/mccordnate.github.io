@@ -29,3 +29,5 @@ Gemfile.lock
 
 .sass-cache/
 .jekyll-metadata
+
+/_posts/inProgress/
