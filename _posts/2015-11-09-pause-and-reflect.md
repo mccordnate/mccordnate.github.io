@@ -6,9 +6,9 @@ categories: life, school
 ---
 Hey there,
 
-I think it's time to tell everyone a little bit about this semester.
+I think it's time to tell everyone a little bit about this semester. This is a blog post I knew I would have to write when creating this blog. It's quite possibly, subconsciously, the reason I made this blog. As you can see, I had a lot to get off my chest.
 
-As some people know, I took this semester off from college. To many friends I don't think it came as a surprise as every semester I would inevitably end up making it two-thirds of the way through before falling into a slump of "please get me out of this god awful place I can't stand it."
+As some of you may know, I took this semester off from college. To many friends I don't think it came as a surprise as every semester I would inevitably end up making it two-thirds of the way through before falling into a slump of "please get me out of this god awful place I can't stand it."
 
 Most of the time I would end up having some dream of a startup that could make me rich. I felt that school was wasting my time to accomplish things. Well I decided it was time to just try taking some time off and see where it goes, the only thing is, I didn't actually have an idea in mind at the time.
 
