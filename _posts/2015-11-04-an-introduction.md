@@ -20,6 +20,6 @@ There's one big question I'm currently trying to understand the answer to throug
 
 >At what point is someone qualified enough to write a blog post about something?
 
-Currently, I'm not really sure when someone desides they can teach others about something. It would seem that one needs a good understanding, however, teaching something is one of the best ways to learn it meaning that sooner rather than later might be better. **Be ready for some experimentation.**
+Currently, I'm not really sure when someone decides they can teach others about something. It would seem that one needs a good understanding, however, teaching something is one of the best ways to learn it meaning that sooner rather than later might be better. **Be ready for some experimentation.**
 
 Well, that's all really. I wanted to keep things brief to not scare people off. Thanks for making it through this. Time for a fun and wild ride (Hopefully, I've never done a good job keeping up with blogging in the past).
